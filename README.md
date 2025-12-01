@@ -24,9 +24,6 @@ A clean and modern authentication UI built in **Flutter**, developed using **Vis
 
 ---
 
-
----
-
 ## 📂 Project Structure (VS Code)
 
 ```
