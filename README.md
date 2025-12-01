@@ -1,16 +1,101 @@
-# flutter_login_ui
+# Flutter Login & Signup UI
 
-A new Flutter project.
+A clean and modern authentication UI built in **Flutter**, developed using **Visual Studio Code**. This project includes a minimal, centered Login UI and a matching Signup UI with reusable widgets.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* Beautiful **Login Screen**
+* Clean **Signup Screen**
+* Center-aligned headings (like your design)
+* Modern rounded text fields
+* Reusable input widget
+* VS Code–friendly project structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Developed Using
+
+* **Flutter (Dart)**
+* **Visual Studio Code**
+* **Material Design Widgets**
+* **Git** for version control
+
+---
+
+
+---
+
+## 📂 Project Structure (VS Code)
+
+```
+lib/
+ ├── main.dart
+ ├── screens/
+ │    ├── login_screen.dart
+ │    └── signup_screen.dart
+
+```
+
+---
+
+## ▶️ Run This Project in VS Code
+
+### 1️⃣ Install Flutter & Dart Extensions
+
+In VS Code, go to **Extensions** → search for:
+
+* Flutter
+* Dart
+
+### 2️⃣ Clone the Repository
+
+```sh
+git clone https://github.com/Nahida-Chowdhury/Flutter_Login_Signup_UI.git
+```
+
+### 3️⃣ Open it in VS Code
+
+```
+File → Open Folder → select project folder
+```
+
+### 4️⃣ Get Dependencies
+
+Inside VS Code terminal:
+
+```sh
+flutter pub get
+```
+
+### 5️⃣ Run the App
+
+Click **Run ▶️** OR
+
+```sh
+flutter run
+```
+
+---
+
+## 🧩 Screens Overview
+
+### **Login Screen**
+
+* Username field
+* Password field
+* Login button
+* Forgot password text
+* “Sign Up” navigation
+
+### **Signup Screen**
+
+* Username field
+* Email field
+* Password + Confirm Password
+* Signup button
+* “Login” navigation
+
+---
+
